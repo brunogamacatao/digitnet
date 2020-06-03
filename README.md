@@ -10,11 +10,11 @@ Rede neural para reconhecimento de dígitos manuscritos.
 ## Instalação
 1. Clone o repositório:
 ```bash
-git clone URL
+git clone https://github.com/brunogamacatao/digitnet
 ```
 2. Entre na pasta
 ```bash
-cd pasta
+cd digitnet
 ```
 3. Crie um ambiente
 ```bash
